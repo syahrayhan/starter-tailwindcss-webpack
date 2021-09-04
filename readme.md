@@ -51,4 +51,4 @@ npm run lint
 ```
 ---
 
-# :smiley: if this starter makes your day easier you can buy me a cup of coffee at [MySaweria](https://saweria.co/syahrayhan) Thanks
+## :smiley: if this starter makes your day easier you can buy me a cup of coffee at [MySaweria](https://saweria.co/syahrayhan) Thanks
